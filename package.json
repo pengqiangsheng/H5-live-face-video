@@ -4,10 +4,10 @@
   "description": "h5在线实时人脸验证拍照demo",
   "main": "src/index.js",
   "scripts": {
-    "dev": "serve -s -l 8888"
+    "dev": "cd src && serve -s -l 8888"
   },
   "devDependencies": {
-    "serve": "^11.3.0",
+    "serve": "^11.3.0"
   },
   "author": "pengqiangsheng",
   "license": "ISC"
